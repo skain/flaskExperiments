@@ -1,0 +1,2 @@
+class VersionedClass:
+    version = 'unset'
